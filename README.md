@@ -15,3 +15,5 @@ Did Lesson 5.8
 Coded sample neural networks with one and two hidden layers
 Sample model.ipynb
 
+Day 10
+Implemented the network given in 5.8
