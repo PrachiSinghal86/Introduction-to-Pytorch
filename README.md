@@ -18,7 +18,10 @@ Sample model.ipynb
 
 Day 10
 Implemented the network given in 5.8
+
+
 Started Again
+
 Day 1
 Coded sample code for Facebook Internship
 Climb the leaderboard (HackerRank)
