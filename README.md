@@ -26,3 +26,13 @@ Day 1
 Coded sample code for Facebook Internship
 Climb the leaderboard (HackerRank)
 
+Day 2 
+Lesson 5.10-5.11
+Completed MNIST digits
+
+Day 3
+https://www.nytimes.com/2020/01/01/health/breast-cancer-mammogram-artificial-intelligence.html
+
+Day 4
+Lesson 5.12-5.13
+Coded Fashion MNIST
