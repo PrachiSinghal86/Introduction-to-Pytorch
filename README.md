@@ -36,3 +36,10 @@ https://www.nytimes.com/2020/01/01/health/breast-cancer-mammogram-artificial-int
 Day 4
 Lesson 5.12-5.13
 Coded Fashion MNIST
+
+Day 5
+Read about XGBoost
+Worked on Reasearch Paper
+
+Day 6
+Lesson 5.14-5.15
