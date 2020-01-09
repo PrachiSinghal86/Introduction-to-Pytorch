@@ -1,11 +1,14 @@
 # Introduction to Pytorch
  #60_days_Code
+ 
 Day 6
 Coded a Neural Network
+
 Day 7
 Watched Lesson 5.7
 Coded MNIST
 mnist.ipynb
+
 Day 8
 Read Two Blogs
 1)https://towardsdatascience.com/convolutional-neural-network-for-breast-cancer-classification-52f1213dcc9
@@ -43,3 +46,7 @@ Worked on Reasearch Paper
 
 Day 6
 Lesson 5.14-5.15
+
+Day 7
+Coded a codechef problem(Jan20B BRKBKS)
+Worked on Research Paper
