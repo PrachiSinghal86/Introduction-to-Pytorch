@@ -50,3 +50,8 @@ Lesson 5.14-5.15
 Day 7
 Coded a codechef problem(Jan20B BRKBKS)
 Worked on Research Paper
+
+Day 8
+lesson 5.16-5.19
+1 coding problem
+coded all the jupyter notebooks
