@@ -55,3 +55,11 @@ Day 8
 lesson 5.16-5.19
 1 coding problem
 coded all the jupyter notebooks
+
+Day 9
+Completed lesson 5
+Worked on research paper
+
+Day 10
+Lesson 6.1-6.8
+
