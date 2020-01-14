@@ -63,3 +63,9 @@ Worked on research paper
 Day 10
 Lesson 6.1-6.8
 
+Day 11 Skipped
+
+Day 12 
+HackerRank Problem  time to word
+Research paper (Added ann)
+idea ppt
