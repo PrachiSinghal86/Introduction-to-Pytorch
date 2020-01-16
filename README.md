@@ -73,3 +73,4 @@ idea ppt
 D13: Almost completed tyhe research paper
 
 D14:HackerRak question Almost sorted
+Lesson 6.16-6.19
