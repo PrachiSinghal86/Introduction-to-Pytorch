@@ -79,3 +79,8 @@ D15:Lesson 6.20-6.24
 
 D16:Lesson 6.25-6.26
 Updated abstract and ann in research paper
+
+D17:HackerRank Problem
+one problem of codechef challenge
+Read a blog on different types of kernels
+https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37
