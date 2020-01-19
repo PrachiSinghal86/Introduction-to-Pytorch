@@ -76,3 +76,6 @@ D14:HackerRak question Almost sorted
 Lesson 6.16-6.19
 
 D15:Lesson 6.20-6.24
+
+D16:Lesson 6.25-6.26
+Updated abstract and ann in research paper
