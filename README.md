@@ -84,3 +84,5 @@ D17:HackerRank Problem
 one problem of codechef challenge
 Read a blog on different types of kernels
 https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37
+
+D18: 3 HackerRank Problems
