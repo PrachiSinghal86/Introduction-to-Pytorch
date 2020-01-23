@@ -91,3 +91,4 @@ D19:Lesson 6.27-6.32
 
 D20: Completed lesson 6
 Started making ppt for webinar
+worked on research paper
