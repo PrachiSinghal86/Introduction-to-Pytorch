@@ -86,3 +86,8 @@ Read a blog on different types of kernels
 https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37
 
 D18: 3 HackerRank Problems
+
+D19:Lesson 6.27-6.32
+
+D20: Completed lesson 6
+Started making ppt for webinar
