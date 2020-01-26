@@ -92,3 +92,15 @@ D19:Lesson 6.27-6.32
 D20: Completed lesson 6
 Started making ppt for webinar
 worked on research paper
+
+D21:
+Made ppt
+Assgn
+
+D22:
+Gave a webinar on CNN
+Attended Training and solved 5 questions
+
+D23:
+Lesson 7.1-7.5
+Solved two leetcode probles
