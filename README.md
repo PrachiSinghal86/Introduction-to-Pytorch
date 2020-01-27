@@ -104,3 +104,7 @@ Attended Training and solved 5 questions
 D23:
 Lesson 7.1-7.5
 Solved two leetcode probles
+
+D24:
+Lesson 7 Completed
+Solved one hackerRank Problem
