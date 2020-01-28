@@ -108,3 +108,6 @@ Solved two leetcode probles
 D24:
 Lesson 7 Completed
 Solved one hackerRank Problem
+
+D25:
+https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
