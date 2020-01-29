@@ -111,3 +111,7 @@ Solved one hackerRank Problem
 
 D25:
 https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1
+
+D26:
+HackerRak Prolem
+tried to understand RN and LSTM
