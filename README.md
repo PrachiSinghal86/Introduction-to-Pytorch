@@ -115,3 +115,6 @@ https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-
 D26:
 HackerRak Prolem
 tried to understand RN and LSTM
+
+D27: 
+Lesson 7.1-7.10
