@@ -118,3 +118,6 @@ tried to understand RN and LSTM
 
 D27: 
 Lesson 7.1-7.10
+
+D28:
+HackerRank Problem Lisa's Workbook
