@@ -121,3 +121,5 @@ Lesson 7.1-7.10
 
 D28:
 HackerRank Problem Lisa's Workbook
+
+D29: Skipped
