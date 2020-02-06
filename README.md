@@ -123,3 +123,10 @@ D28:
 HackerRank Problem Lisa's Workbook
 
 D29: Skipped
+
+D30-31:web Scrapping
+Coding
+
+D32: Research paper
+compiler
+resume
