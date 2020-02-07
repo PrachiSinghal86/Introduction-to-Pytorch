@@ -122,11 +122,14 @@ Lesson 7.1-7.10
 D28:
 HackerRank Problem Lisa's Workbook
 
-D29: Skipped
+D29-30: Skipped
 
-D30-31:web Scrapping
+D31-32:web Scrapping
 Coding
 
-D32: Research paper
+D33: Research paper
 compiler
 resume
+
+D34:
+Project Euler #230
