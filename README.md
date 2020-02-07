@@ -133,3 +133,6 @@ resume
 
 D34:
 Project Euler #230
+3 hackerRank prob
+cocubes coding
+competitive coding session
