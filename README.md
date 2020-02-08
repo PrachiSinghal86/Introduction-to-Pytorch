@@ -136,3 +136,8 @@ Project Euler #230
 3 hackerRank prob
 cocubes coding
 competitive coding session
+
+D35: 
+Lesson 8.12-13
+coded RNN
+Coding questions
