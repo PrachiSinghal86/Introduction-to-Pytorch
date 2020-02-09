@@ -141,3 +141,7 @@ D35:
 Lesson 8.12-13
 coded RNN
 Coding questions
+
+D36:
+Diagonal difference
+Took coding session
