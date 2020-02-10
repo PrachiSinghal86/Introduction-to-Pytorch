@@ -145,3 +145,8 @@ Coding questions
 D36:
 Diagonal difference
 Took coding session
+
+D37:
+Coded 5 questions
+RM assgn
+Researched about future job prediction
