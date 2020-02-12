@@ -153,3 +153,4 @@ Researched about future job prediction
 
 D38:
 coded 5 questions
+Lesson 8.14-8.16
