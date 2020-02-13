@@ -154,3 +154,8 @@ Researched about future job prediction
 D38:
 coded 5 questions
 Lesson 8.14-8.16
+
+D39:5 problems
+
+D40: Flipkart revised
+5 problems
