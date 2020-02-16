@@ -159,3 +159,9 @@ D39:5 problems
 
 D40: Flipkart revised
 5 problems
+
+D41:Skipped
+
+D42-43: Flipkart training
+Solved various problems.
+
